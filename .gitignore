@@ -79,3 +79,6 @@ result/
 
 # Un-published crates
 crates/data-science
+
+# Reference projects and code
+references/
