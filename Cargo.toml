@@ -5,6 +5,7 @@ members = [
     "crates/data-science",
     "crates/opencv-tutorial",
     "crates/polars-tutorial",
+    "crates/cpp-binding-tutorial",
     "crates/ort-tutorial",
 ]
 resolver = "2"

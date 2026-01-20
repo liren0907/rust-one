@@ -52,3 +52,4 @@ cargo run -p ort-tutorial --release
 | **opencv-tutorial** | OpenCV computer vision tutorials and image processing |
 | **polars-tutorial** | High-performance data processing using Polars |
 | **ort-tutorial** | ONNX Runtime inference with YOLO object detection |
+| **cpp-binding-tutorial** | Manual FFI tutorial demonstrating calling C++ from Rust |
