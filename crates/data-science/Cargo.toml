@@ -1,0 +1,16 @@
+[package]
+name = "data-science"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+anyhow.workspace = true
+csv.workspace = true
+chrono.workspace = true
+
+# Additional dependencies for data science
+statrs = "0.16"        # Statistical distributions and functions
+ndarray = "0.15"       # N-dimensional arrays for matrix operations
+plotters = "0.3"       # For basic plotting concepts (optional)
